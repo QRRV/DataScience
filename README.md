@@ -1,4 +1,4 @@
-# DataScience
+# DataScience by QRRV
 
 ## Overview
 DataScience is a project focused on leveraging data analysis and machine learning techniques to extract insights from complex datasets. This repository contains Jupyter Notebooks that demonstrate various data science methodologies and applications.
